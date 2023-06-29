@@ -1,0 +1,2 @@
+tabs: ['contracts/Day3.sol']
+terminals: ['yarn install']
